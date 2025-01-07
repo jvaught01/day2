@@ -11,6 +11,12 @@ Never miss an NBA game again! This AWS-powered system automatically sends you re
 - Tells you what channel the game is on
 - Keeps you updated on game status (scheduled, in progress, or final)
 
+System Architecture 🏗️
+
+![NBA Game Day Notifications Architecture](architecture.png)
+
+An overview of how the system components work together to deliver your game updates
+
 ## What You'll Need
 
 1. An AWS account
